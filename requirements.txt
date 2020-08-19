@@ -7,4 +7,4 @@ beautifulsoup4
 lxml
 requests
 pytz
-MySQLdb
+mysql-connector
